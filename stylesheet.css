@@ -1,0 +1,21 @@
+
+a>img, .column>img{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.smaller-image {
+    object-fit:scale-down;
+}
+
+
+.win{
+    color:#8ed641;
+}
+.lose{
+    color: #ee7762;
+}
+.tie{
+    color:#f3d060
+}
